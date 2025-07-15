@@ -1,4 +1,5 @@
  Padrões de Projeto
+
 Decorator
 O padrão Decorator foi usado porque o relatório de cada atividade precisa de informações adicionais, como observações sobre o ajuste das horas (por exemplo, se eu ultrapassei o limite de horas). Com esse padrão, consegui adicionar essas informações de maneira flexível, sem precisar mexer na estrutura do relatório original.
 
